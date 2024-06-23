@@ -1,0 +1,97 @@
+lib/firebase_options.dart
+
+# Dart Tool
+.dart_tool/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Flutter build
+build/
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/app/key.properties
+
+# Web
+web/compiled/
+
+# Linux
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/CMakeLists.txt
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/ephemeral/
+
+# Windows
+windows/flutter/generated_plugin_registrant.cpp
+
+# Firebase
+firebase.json
+
+# Secrets and configurations
+*.env
+*.secret
+*.key
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
