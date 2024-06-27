@@ -1,7 +1,9 @@
 lib/firebase_options.dart
 
+mykeystore.jks
 # Dart Tool
 .dart_tool/
+
 
 # Flutter specific
 .flutter-plugins
